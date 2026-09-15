@@ -1,0 +1,8 @@
+{
+  "name": "Remix Air-Land-Water Battles V2",
+  "description": "Design, arm, and command land vehicles, naval warships, and combat aircraft, and review comprehensive game history and combat performance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
